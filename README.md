@@ -50,16 +50,16 @@ Submit a new tool via PR — see [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ---
 
-## 🚀 Quick Star Count Target: 5,000+
+## 🚀 Growth
 
 **How we'll get there fast:**
 
-1. **Hacker News launch** — controversial title: "Free AI tools that don't lock you in"
+1. **Hacker News launch** — "Free AI tools that don't lock you in"
 2. **Reddit r/artificial, r/singularity, r/MachineLearning** — value-first posting
-3. **Twitter/X thread** — "I catalogued 200+ free AI tools, here's what nobody tells you"
+3. **Twitter/X thread** — "I catalogued 200+ free AI tools"
 4. **Dev.to / Hashnode article** — "The $0 AI Stack: How I replaced $300/month of subscriptions"
 5. **Product Hunt** — launch as "Awesome Free AI" directory
-6. **Discord community** — `/r/FreeAI` and similar server partnerships
+6. **Discord /r/FreeAI** and similar server partnerships
 
 ---
 
