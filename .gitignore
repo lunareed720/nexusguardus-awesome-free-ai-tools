@@ -2,8 +2,7 @@
 node_modules/
 __pycache__/
 
-# Data files
-data/
+# Data files — allow tools.json, ignore temp
 
 # OS
 .DS_Store
