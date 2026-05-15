@@ -27,7 +27,7 @@ We rate each tool on: **truly-free**, **no-credit-card**, **utmost-limits**, and
 ## 🛠️ Using this project
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/awesome-free-ai-tools.git
+git clone https://github.com/nexusguardus/awesome-free-ai-tools.git
 cd awesome-free-ai-tools
 ```
 
