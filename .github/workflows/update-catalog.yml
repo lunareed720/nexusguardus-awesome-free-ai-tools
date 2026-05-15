@@ -1,0 +1,17 @@
+name: Update free AI tools catalog
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # weekly
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo "Weekly catalog update placeholder — run tools.yml validation here"
+      - run: git diff --exit-code || git add -A && git commit -m "chore: weekly tool limit refresh"
+      - env:
+          GITHUB_TOKEN: \${{ secrets.GITHUB_TOKEN }}
+        run: git push
