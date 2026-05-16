@@ -1,0 +1,1370 @@
+[
+  {
+    "name": "ChatGPT",
+    "url": "https://chatgpt.com",
+    "category": "ai-chat",
+    "freeTier": "GPT-4o mini, file uploads, web browsing",
+    "noCreditCard": true,
+    "limits": "Moderate daily caps",
+    "notes": "Industry standard. Free GPT-5.5 Instant (limited)."
+  },
+  {
+    "name": "Claude",
+    "url": "https://claude.ai",
+    "category": "ai-chat",
+    "freeTier": "Sonnet 4, web search, file uploads",
+    "noCreditCard": true,
+    "limits": "~15-40 msg/5h",
+    "notes": "Excellent reasoning, large context."
+  },
+  {
+    "name": "Google Gemini",
+    "url": "https://gemini.google.com",
+    "category": "ai-chat",
+    "freeTier": "Gemini 2.5 Flash, 10 Deep Research/mo",
+    "noCreditCard": true,
+    "limits": "100 AI credits/mo",
+    "notes": "Tight Google integration."
+  },
+  {
+    "name": "Microsoft Copilot",
+    "url": "https://copilot.microsoft.com",
+    "category": "ai-chat",
+    "freeTier": "GPT chat + web search + image gen",
+    "noCreditCard": true,
+    "limits": "Moderate daily limits",
+    "notes": "Bing integration, citations."
+  },
+  {
+    "name": "Meta AI",
+    "url": "https://meta.ai",
+    "category": "ai-chat",
+    "freeTier": "Llama 4, Emu image gen, video",
+    "noCreditCard": true,
+    "limits": "Generous",
+    "notes": "Integrated with Facebook/WhatsApp."
+  },
+  {
+    "name": "Grok",
+    "url": "https://grok.com",
+    "category": "ai-chat",
+    "freeTier": "Grok 3, Aurora image gen, X data",
+    "noCreditCard": true,
+    "limits": "~10-25 msg/2h",
+    "notes": "Real-time X access."
+  },
+  {
+    "name": "DeepSeek Chat",
+    "url": "https://chat.deepseek.com",
+    "category": "ai-chat",
+    "freeTier": "DeepSeek V3, web search, files",
+    "noCreditCard": true,
+    "limits": "Very generous",
+    "notes": "Open source. Has API."
+  },
+  {
+    "name": "Poe",
+    "url": "https://poe.com",
+    "category": "ai-chat",
+    "freeTier": "GPT/Claude/Gemini via compute points",
+    "noCreditCard": true,
+    "limits": "300 pts/day",
+    "notes": "Multi-model in one app."
+  },
+  {
+    "name": "Le Chat (Mistral)",
+    "url": "https://chat.mistral.ai",
+    "category": "ai-chat",
+    "freeTier": "Latest Mistral models, web search",
+    "noCreditCard": true,
+    "limits": "~20-60 msg/day",
+    "notes": "Fast, lightweight."
+  },
+  {
+    "name": "HuggingChat",
+    "url": "https://huggingface.co/chat",
+    "category": "ai-chat",
+    "freeTier": "Open models (Llama, Mistral, Qwen)",
+    "noCreditCard": true,
+    "limits": "HF Inference credits",
+    "notes": "Open source models."
+  },
+  {
+    "name": "Duck.ai",
+    "url": "https://duck.ai",
+    "category": "ai-chat",
+    "freeTier": "GPT-4o mini via anonymous proxy",
+    "noCreditCard": true,
+    "limits": "Generous",
+    "notes": "Privacy-first, no account needed."
+  },
+  {
+    "name": "Pi (Inflection)",
+    "url": "https://pi.ai",
+    "category": "ai-chat",
+    "freeTier": "Emotional AI, voice mode",
+    "noCreditCard": true,
+    "limits": "Generous",
+    "notes": "Great conversational style."
+  },
+  {
+    "name": "Character.AI",
+    "url": "https://character.ai",
+    "category": "ai-chat",
+    "freeTier": "10M+ characters, voice chat",
+    "noCreditCard": true,
+    "limits": "~20-50 msg/day",
+    "notes": "Roleplay & creative writing."
+  },
+  {
+    "name": "DeepAI Chat",
+    "url": "https://deepai.org/chat",
+    "category": "ai-chat",
+    "freeTier": "Standard models + image gen",
+    "noCreditCard": true,
+    "limits": "Moderate daily credits",
+    "notes": "Has API."
+  },
+  {
+    "name": "Perplexity",
+    "url": "https://perplexity.ai",
+    "category": "ai-chat",
+    "freeTier": "AI search + chat, file uploads",
+    "noCreditCard": true,
+    "limits": "5 Pro searches/day",
+    "notes": "Best for research."
+  },
+  {
+    "name": "You.com",
+    "url": "https://you.com",
+    "category": "ai-chat",
+    "freeTier": "Chat with search, multiple modes",
+    "noCreditCard": true,
+    "limits": "Moderate limits",
+    "notes": "Has API, ad-supported."
+  },
+  {
+    "name": "Z.ai",
+    "url": "https://z.ai",
+    "category": "ai-chat",
+    "freeTier": "GLM-5 models, AI slides, code gen",
+    "noCreditCard": true,
+    "limits": "Moderate limits",
+    "notes": "All-in-one Chinese platform."
+  },
+  {
+    "name": "Kimi AI",
+    "url": "https://kimi.com/en",
+    "category": "ai-chat",
+    "freeTier": "K2.6 model, 256K context, agents",
+    "noCreditCard": true,
+    "limits": "Moderate limits",
+    "notes": "Strong research assistant."
+  },
+  {
+    "name": "Overchat AI",
+    "url": "https://overchat.ai",
+    "category": "ai-chat",
+    "freeTier": "ChatGPT, Claude, Gemini, DeepSeek",
+    "noCreditCard": true,
+    "limits": "Moderate daily limits",
+    "notes": "Multi-model aggregator."
+  },
+  {
+    "name": "Chatbox AI",
+    "url": "https://chatboxai.app",
+    "category": "ai-chat",
+    "freeTier": "Desktop/mobile client, BYOK",
+    "noCreditCard": true,
+    "limits": "Unlimited local",
+    "notes": "Open source. Use own keys."
+  },
+  {
+    "name": "ThinkAny",
+    "url": "https://thinkany.ai",
+    "category": "ai-chat",
+    "freeTier": "AI search + chat, multilingual",
+    "noCreditCard": true,
+    "limits": "Moderate limits",
+    "notes": "Good for quick answers."
+  },
+  {
+    "name": "Shiori",
+    "url": "https://shiori.ai",
+    "category": "ai-chat",
+    "freeTier": "8+ models, 50 msg/month",
+    "noCreditCard": true,
+    "limits": "50/month",
+    "notes": "Simple multi-model chat."
+  },
+  {
+    "name": "Leonardo.ai",
+    "url": "https://leonardo.ai",
+    "category": "ai-image",
+    "freeTier": "150 fast tokens/day",
+    "noCreditCard": true,
+    "limits": "150/day, public images",
+    "notes": "Best quality-to-free ratio."
+  },
+  {
+    "name": "Ideogram",
+    "url": "https://ideogram.ai",
+    "category": "ai-image",
+    "freeTier": "10 slow credits/week",
+    "noCreditCard": true,
+    "limits": "~40 images/week",
+    "notes": "Best text rendering in images."
+  },
+  {
+    "name": "Bing Image Creator",
+    "url": "https://bing.com/images/create",
+    "category": "ai-image",
+    "freeTier": "15 boosts/day (DALL-E 3)",
+    "noCreditCard": true,
+    "limits": "15/day, 1024x1024",
+    "notes": "Powered by DALL-E 3. Completely free."
+  },
+  {
+    "name": "Adobe Firefly",
+    "url": "https://adobe.com/products/firefly.html",
+    "category": "ai-image",
+    "freeTier": "25 gen credits/month",
+    "noCreditCard": true,
+    "limits": "25/mo, watermarked",
+    "notes": "Commercially safe."
+  },
+  {
+    "name": "Playground AI",
+    "url": "https://playground.com",
+    "category": "ai-image",
+    "freeTier": "v3: 10 edits/3h, SD: ~1000/day",
+    "noCreditCard": true,
+    "limits": "Rate-limited",
+    "notes": "Many fine-tuned models."
+  },
+  {
+    "name": "Craiyon",
+    "url": "https://craiyon.com",
+    "category": "ai-image",
+    "freeTier": "Unlimited, no signup",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "Lower quality, but truly unlimited."
+  },
+  {
+    "name": "Recraft AI",
+    "url": "https://recraft.ai",
+    "category": "ai-image",
+    "freeTier": "30 daily credits",
+    "noCreditCard": true,
+    "limits": "30/day, public",
+    "notes": "Vectors, icons, brand kits."
+  },
+  {
+    "name": "Clipdrop",
+    "url": "https://clipdrop.co",
+    "category": "ai-image",
+    "freeTier": "~20-50 daily credits/tool",
+    "noCreditCard": true,
+    "limits": "Watermarked",
+    "notes": "Background removal, cleanup."
+  },
+  {
+    "name": "Mage.space",
+    "url": "https://mage.space",
+    "category": "ai-image",
+    "freeTier": "Unlimited with ads",
+    "noCreditCard": true,
+    "limits": "Ads, slower gen",
+    "notes": "160+ models in browser."
+  },
+  {
+    "name": "SeaArt",
+    "url": "https://seaart.ai",
+    "category": "ai-image",
+    "freeTier": "~130-150 stamina/day",
+    "noCreditCard": true,
+    "limits": "Basic res, public",
+    "notes": "Best for anime/stylized."
+  },
+  {
+    "name": "Tensor.art",
+    "url": "https://tensor.art",
+    "category": "ai-image",
+    "freeTier": "50 daily credits",
+    "noCreditCard": true,
+    "limits": "50/day, public",
+    "notes": "Model sharing platform."
+  },
+  {
+    "name": "NightCafe",
+    "url": "https://creator.nightcafe.studio",
+    "category": "ai-image",
+    "freeTier": "5 daily + earnable credits",
+    "noCreditCard": true,
+    "limits": "~5 months expiry",
+    "notes": "Strong community."
+  },
+  {
+    "name": "Pixlr",
+    "url": "https://pixlr.com",
+    "category": "ai-image",
+    "freeTier": "3 saves/day + 50 AI credits/mo",
+    "noCreditCard": true,
+    "limits": "Ads",
+    "notes": "Photo editor + AI gen."
+  },
+  {
+    "name": "Fooocus",
+    "url": "https://github.com/lllyasviel/Fooocus",
+    "category": "ai-image",
+    "freeTier": "Free, open source (local)",
+    "noCreditCard": true,
+    "limits": "Needs 4GB+ VRAM",
+    "notes": "Offline, no limits."
+  },
+  {
+    "name": "ComfyUI",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "category": "ai-image",
+    "freeTier": "Free, open source (local)",
+    "noCreditCard": true,
+    "limits": "Needs GPU",
+    "notes": "Most powerful SD workflow."
+  },
+  {
+    "name": "Kling",
+    "url": "https://klingai.com",
+    "category": "ai-video",
+    "freeTier": "66 daily credits",
+    "noCreditCard": true,
+    "limits": "66/day, 720p",
+    "notes": "Best physics/motion on free."
+  },
+  {
+    "name": "PixVerse",
+    "url": "https://pixverse.ai",
+    "category": "ai-video",
+    "freeTier": "60-90 daily credits",
+    "noCreditCard": true,
+    "limits": "Watermarked",
+    "notes": "Fast generation."
+  },
+  {
+    "name": "Pika",
+    "url": "https://pika.art",
+    "category": "ai-video",
+    "freeTier": "80 monthly credits",
+    "noCreditCard": true,
+    "limits": "480p, watermarked",
+    "notes": "Fun Pikaffects."
+  },
+  {
+    "name": "Runway",
+    "url": "https://runwayml.com",
+    "category": "ai-video",
+    "freeTier": "125 one-time credits",
+    "noCreditCard": true,
+    "limits": "One-time, 720p",
+    "notes": "Exhausts permanently."
+  },
+  {
+    "name": "Luma Dream Machine",
+    "url": "https://lumalabs.ai",
+    "category": "ai-video",
+    "freeTier": "~30 renders/month",
+    "noCreditCard": true,
+    "limits": "Basic features",
+    "notes": "Good for action/motion."
+  },
+  {
+    "name": "Haiper",
+    "url": "https://haiper.ai",
+    "category": "ai-video",
+    "freeTier": "~50 trial credits",
+    "noCreditCard": true,
+    "limits": "Max 8s, watermarked",
+    "notes": "Short clips only."
+  },
+  {
+    "name": "Vidu",
+    "url": "https://vidu.com",
+    "category": "ai-video",
+    "freeTier": "30 peak credits/mo + off-peak free",
+    "noCreditCard": true,
+    "limits": "Off-peak free but slow",
+    "notes": "Unique unlimited off-peak."
+  },
+  {
+    "name": "CapCut",
+    "url": "https://capcut.com",
+    "category": "ai-video",
+    "freeTier": "Basic editing free",
+    "noCreditCard": true,
+    "limits": "1080p free",
+    "notes": "ByteDance. Very popular."
+  },
+  {
+    "name": "Sora (via ChatGPT)",
+    "url": "https://chatgpt.com",
+    "category": "ai-video",
+    "freeTier": "1-3/day at 480p/5s",
+    "noCreditCard": true,
+    "limits": "Heavily rate-limited",
+    "notes": "Premium quality, very limited free."
+  },
+  {
+    "name": "Kaiber",
+    "url": "https://kaiber.ai",
+    "category": "ai-video",
+    "freeTier": "~50 one-time welcome credits",
+    "noCreditCard": true,
+    "limits": "One-time, watermarked",
+    "notes": "Music video focused."
+  },
+  {
+    "name": "Hailuo AI (MiniMax)",
+    "url": "https://hailuoai.video",
+    "category": "ai-video",
+    "freeTier": "200 welcome credits",
+    "noCreditCard": true,
+    "limits": "One-time, 768p, 6s",
+    "notes": "Excellent fluid motion."
+  },
+  {
+    "name": "Seedance (ByteDance)",
+    "url": "https://seedance2.ai",
+    "category": "ai-video",
+    "freeTier": "5-10 daily credits",
+    "noCreditCard": true,
+    "limits": "Watermark",
+    "notes": "Strong character consistency."
+  },
+  {
+    "name": "Google Veo 3.1",
+    "url": "https://vids.new",
+    "category": "ai-video",
+    "freeTier": "10 generations/month",
+    "noCreditCard": true,
+    "limits": "10/mo, watermarked",
+    "notes": "Google's best model, May 2026."
+  },
+  {
+    "name": "Stable Video Diffusion",
+    "url": "https://huggingface.co/spaces/multimodalart/stable-video-diffusion",
+    "category": "ai-video",
+    "freeTier": "Free via HF Spaces",
+    "noCreditCard": true,
+    "limits": "~4s clips, queue",
+    "notes": "Open source. Image-to-video."
+  },
+  {
+    "name": "HeyGen",
+    "url": "https://heygen.com",
+    "category": "ai-video",
+    "freeTier": "1 free credit (1 min)",
+    "noCreditCard": true,
+    "limits": "1 video total",
+    "notes": "AI avatars. Very limited free."
+  },
+  {
+    "name": "Suno",
+    "url": "https://suno.com",
+    "category": "ai-music",
+    "freeTier": "50 credits/day (~10 songs)",
+    "noCreditCard": true,
+    "limits": "50/day, non-commercial",
+    "notes": "Industry leader. Full vocals+lyrics."
+  },
+  {
+    "name": "Udio",
+    "url": "https://udio.com",
+    "category": "ai-music",
+    "freeTier": "10/day + 100 monthly bonus",
+    "noCreditCard": true,
+    "limits": "~3 full songs/day",
+    "notes": "High quality."
+  },
+  {
+    "name": "MusicGen (Meta)",
+    "url": "https://huggingface.co/spaces/facebook/MusicGen",
+    "category": "ai-music",
+    "freeTier": "Free demo, no signup",
+    "noCreditCard": true,
+    "limits": "~12-30s clips, queue",
+    "notes": "Open source. Run locally unlimited."
+  },
+  {
+    "name": "Riffusion",
+    "url": "https://riffusionai.com",
+    "category": "ai-music",
+    "freeTier": "Unlimited, no login",
+    "noCreditCard": true,
+    "limits": "None stated",
+    "notes": "Text-to-song with extend/remix."
+  },
+  {
+    "name": "AIVA",
+    "url": "https://aiva.ai",
+    "category": "ai-music",
+    "freeTier": "3 MP3 downloads/month",
+    "noCreditCard": true,
+    "limits": "3/mo, non-commercial",
+    "notes": "Classical/orchestral. 250+ styles."
+  },
+  {
+    "name": "SongR",
+    "url": "https://songr.ai",
+    "category": "ai-music",
+    "freeTier": "Up to 5 songs/day, no registration",
+    "noCreditCard": true,
+    "limits": "5/day",
+    "notes": "Simple web-based."
+  },
+  {
+    "name": "Boomy",
+    "url": "https://boomy.com",
+    "category": "ai-music",
+    "freeTier": "Unlimited creation",
+    "noCreditCard": true,
+    "limits": "Can't export WAV",
+    "notes": "One-click creation. Paid for downloads."
+  },
+  {
+    "name": "Splash Pro",
+    "url": "https://pro.splashmusic.com",
+    "category": "ai-music",
+    "freeTier": "Limited free generations",
+    "noCreditCard": true,
+    "limits": "Short tracks",
+    "notes": "BPM/key customization."
+  },
+  {
+    "name": "Mubert",
+    "url": "https://mubert.com",
+    "category": "ai-music",
+    "freeTier": "Limited free previews",
+    "noCreditCard": true,
+    "limits": "Short previews",
+    "notes": "Royalty-free bg music."
+  },
+  {
+    "name": "Beatoven.ai",
+    "url": "https://beatoven.ai",
+    "category": "ai-music",
+    "freeTier": "5 trial generations",
+    "noCreditCard": true,
+    "limits": "5 tracks",
+    "notes": "Royalty-free bg music for podcasts."
+  },
+  {
+    "name": "Loudly",
+    "url": "https://loudly.com",
+    "category": "ai-music",
+    "freeTier": "1 AI model, basic gen",
+    "noCreditCard": true,
+    "limits": "Limited exports",
+    "notes": "Paid from $5.99/mo."
+  },
+  {
+    "name": "Warbls",
+    "url": "https://warbls.com",
+    "category": "ai-music",
+    "freeTier": "Unlimited, no signup",
+    "noCreditCard": true,
+    "limits": "None stated",
+    "notes": "Truly free (claims)."
+  },
+  {
+    "name": "Tad AI",
+    "url": "https://tad.ai",
+    "category": "ai-music",
+    "freeTier": "Free basic plan + credits",
+    "noCreditCard": true,
+    "limits": "Limited credits",
+    "notes": "Text-to-song generation."
+  },
+  {
+    "name": "OpenMusic AI",
+    "url": "https://openmusic.ai",
+    "category": "ai-music",
+    "freeTier": "Free all-in-one",
+    "noCreditCard": true,
+    "limits": "May have rate caps",
+    "notes": "Full songs with lyrics."
+  },
+  {
+    "name": "Soundraw",
+    "url": "https://soundraw.io",
+    "category": "ai-music",
+    "freeTier": "Preview unlimited",
+    "noCreditCard": true,
+    "limits": "Cannot download",
+    "notes": "Per-instrument customization."
+  },
+  {
+    "name": "GitHub Copilot Free",
+    "url": "https://github.com/features/copilot/plans",
+    "category": "ai-code",
+    "freeTier": "2k completions/mo + 50 chats/mo",
+    "noCreditCard": true,
+    "limits": "Monthly",
+    "notes": "Free since Dec 2024. VS Code."
+  },
+  {
+    "name": "Windsurf / Codeium",
+    "url": "https://windsurf.com/pricing",
+    "category": "ai-code",
+    "freeTier": "25 credits/mo, unlimited autocomplete",
+    "noCreditCard": true,
+    "limits": "25 credits for agent",
+    "notes": "Best free autocomplete."
+  },
+  {
+    "name": "Cursor",
+    "url": "https://cursor.com/pricing",
+    "category": "ai-code",
+    "freeTier": "50 premium requests/mo",
+    "noCreditCard": true,
+    "limits": "50/mo premium models",
+    "notes": "VS Code fork."
+  },
+  {
+    "name": "Amazon Q Developer",
+    "url": "https://aws.amazon.com/q/developer/pricing/",
+    "category": "ai-code",
+    "freeTier": "50 chats/mo, unlimited suggestions",
+    "noCreditCard": true,
+    "limits": "Perpetual free",
+    "notes": "Security scanning included."
+  },
+  {
+    "name": "Continue.dev",
+    "url": "https://www.continue.dev",
+    "category": "ai-code",
+    "freeTier": "Open source, BYOK",
+    "noCreditCard": true,
+    "limits": "Depends on API key",
+    "notes": "VS Code & JetBrains."
+  },
+  {
+    "name": "Cline",
+    "url": "https://cline.bot",
+    "category": "ai-code",
+    "freeTier": "Open source VS Code ext, BYOK",
+    "noCreditCard": true,
+    "limits": "Depends on API key",
+    "notes": "Most popular AI coding ext."
+  },
+  {
+    "name": "Aider",
+    "url": "https://aider.chat",
+    "category": "ai-code",
+    "freeTier": "Open source, terminal-based",
+    "noCreditCard": true,
+    "limits": "Depends on API/model",
+    "notes": "Works with Ollama for local."
+  },
+  {
+    "name": "Replit",
+    "url": "https://replit.com/pricing",
+    "category": "ai-code",
+    "freeTier": "Limited AI credits, basic compute",
+    "noCreditCard": false,
+    "limits": "Monthly credits",
+    "notes": "Browser-based IDE."
+  },
+  {
+    "name": "Google Firebase Studio (IDX)",
+    "url": "https://idx.dev",
+    "category": "ai-code",
+    "freeTier": "Free cloud IDE with Gemini",
+    "noCreditCard": true,
+    "limits": "Generous rate limits",
+    "notes": "Web-based, Gemini AI."
+  },
+  {
+    "name": "Blackbox AI",
+    "url": "https://www.blackbox.ai",
+    "category": "ai-code",
+    "freeTier": "Code completion, basic chat",
+    "noCreditCard": true,
+    "limits": "Limited queries",
+    "notes": "VS Code extension."
+  },
+  {
+    "name": "Pieces OS",
+    "url": "https://pieces.app",
+    "category": "ai-code",
+    "freeTier": "Local-first, snippet mgmt, copilot",
+    "noCreditCard": true,
+    "limits": "Unlimited locally",
+    "notes": "Open source."
+  },
+  {
+    "name": "PearAI",
+    "url": "https://trypear.ai/pricing",
+    "category": "ai-code",
+    "freeTier": "Unlimited AI autocomplete",
+    "noCreditCard": true,
+    "limits": "Limited advanced",
+    "notes": "Open source VS Code fork."
+  },
+  {
+    "name": "Bolt.new",
+    "url": "https://bolt.new",
+    "category": "ai-code",
+    "freeTier": "Limited monthly tokens",
+    "noCreditCard": false,
+    "limits": "Token-based",
+    "notes": "AI web app gen. Open source."
+  },
+  {
+    "name": "Tabnine",
+    "url": "https://www.tabnine.com/pricing",
+    "category": "ai-code",
+    "freeTier": "Dev Preview — limited completions",
+    "noCreditCard": true,
+    "limits": "Limited monthly",
+    "notes": "Has API."
+  },
+  {
+    "name": "AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "category": "ai-agents",
+    "freeTier": "Open source, self-hosted",
+    "noCreditCard": true,
+    "limits": "Depends on API keys",
+    "notes": "Pioneer autonomous agents."
+  },
+  {
+    "name": "CrewAI",
+    "url": "https://crewai.com",
+    "category": "ai-agents",
+    "freeTier": "Open source framework",
+    "noCreditCard": true,
+    "limits": "Unlimited self-hosted",
+    "notes": "Multi-agent orchestration."
+  },
+  {
+    "name": "LangChain / LangGraph",
+    "url": "https://www.langchain.com",
+    "category": "ai-agents",
+    "freeTier": "Open source framework",
+    "noCreditCard": true,
+    "limits": "Unlimited self-hosted",
+    "notes": "Industry standard agent framework."
+  },
+  {
+    "name": "Microsoft AutoGen",
+    "url": "https://microsoft.github.io/autogen",
+    "category": "ai-agents",
+    "freeTier": "Open source framework",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "Multi-agent conversations."
+  },
+  {
+    "name": "Dify",
+    "url": "https://dify.ai",
+    "category": "ai-agents",
+    "freeTier": "Self-hosted open source + cloud free",
+    "noCreditCard": true,
+    "limits": "200 API calls on cloud",
+    "notes": "Visual agent builder."
+  },
+  {
+    "name": "Flowise",
+    "url": "https://flowiseai.com",
+    "category": "ai-agents",
+    "freeTier": "Open source, self-hosted",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "Drag-and-drop agent builder."
+  },
+  {
+    "name": "n8n",
+    "url": "https://n8n.io",
+    "category": "ai-agents",
+    "freeTier": "Open source self-hosted + cloud free",
+    "noCreditCard": true,
+    "limits": "2k exec/mo on cloud",
+    "notes": "AI agent workflows."
+  },
+  {
+    "name": "AgentGPT",
+    "url": "https://github.com/reworkd/AgentGPT",
+    "category": "ai-agents",
+    "freeTier": "Open source, self-hosted",
+    "noCreditCard": true,
+    "limits": "Depends on API key",
+    "notes": "Browser-based agents."
+  },
+  {
+    "name": "MetaGPT",
+    "url": "https://github.com/FoundationAgents/MetaGPT",
+    "category": "ai-agents",
+    "freeTier": "Open source framework",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "Simulates software company."
+  },
+  {
+    "name": "Taskade AI",
+    "url": "https://www.taskade.com/pricing",
+    "category": "ai-agents",
+    "freeTier": "3k one-time AI credits",
+    "noCreditCard": false,
+    "limits": "One-time credits",
+    "notes": "Team productivity + agents."
+  },
+  {
+    "name": "SuperAGI",
+    "url": "https://github.com/TransformerOptimus/superagi",
+    "category": "ai-agents",
+    "freeTier": "Open source, self-hosted",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "Developer-first."
+  },
+  {
+    "name": "Gemini API",
+    "url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "category": "ai-agents",
+    "freeTier": "Free tier for agents",
+    "noCreditCard": true,
+    "limits": "15 RPM, 1k RPD",
+    "notes": "Build on Google's models."
+  },
+  {
+    "name": "Perplexity",
+    "url": "https://perplexity.ai",
+    "category": "ai-search",
+    "freeTier": "Unlimited basic search, 5 Pro/day",
+    "noCreditCard": true,
+    "limits": "5 Pro searches/day",
+    "notes": "Best overall AI search."
+  },
+  {
+    "name": "Google Gemini",
+    "url": "https://gemini.google.com",
+    "category": "ai-search",
+    "freeTier": "AI Mode search, 10 Deep Research/mo",
+    "noCreditCard": true,
+    "limits": "100 AI credits/mo",
+    "notes": "Deep Research is powerful."
+  },
+  {
+    "name": "Microsoft Copilot",
+    "url": "https://copilot.microsoft.com",
+    "category": "ai-search",
+    "freeTier": "GPT-based web search",
+    "noCreditCard": true,
+    "limits": "~10-30 chats/session",
+    "notes": "Citations included."
+  },
+  {
+    "name": "Brave Search (Leo AI)",
+    "url": "https://search.brave.com",
+    "category": "ai-search",
+    "freeTier": "Privacy-first AI search",
+    "noCreditCard": true,
+    "limits": "Unlimited basic",
+    "notes": "Independent index."
+  },
+  {
+    "name": "Andi Search",
+    "url": "https://andisearch.com",
+    "category": "ai-search",
+    "freeTier": "Conversational AI search",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "No tracking."
+  },
+  {
+    "name": "You.com",
+    "url": "https://you.com",
+    "category": "ai-search",
+    "freeTier": "AI search with modes",
+    "noCreditCard": true,
+    "limits": "Moderate limits",
+    "notes": "Chat/Research/Creative modes."
+  },
+  {
+    "name": "iAsk AI",
+    "url": "https://iask.ai",
+    "category": "ai-search",
+    "freeTier": "Answer engine with citations",
+    "noCreditCard": true,
+    "limits": "Unlimited basic",
+    "notes": "4 search modes."
+  },
+  {
+    "name": "Felo AI Search",
+    "url": "https://felo.ai",
+    "category": "ai-search",
+    "freeTier": "Multilingual AI search",
+    "noCreditCard": true,
+    "limits": "Moderate limits",
+    "notes": "Cross-language search."
+  },
+  {
+    "name": "Consensus",
+    "url": "https://consensus.app",
+    "category": "ai-search",
+    "freeTier": "250M+ research papers",
+    "noCreditCard": true,
+    "limits": "Basic free",
+    "notes": "Academic research."
+  },
+  {
+    "name": "Arc Search",
+    "url": "https://arc.net",
+    "category": "ai-search",
+    "freeTier": "Mobile-first AI search",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "Curated results."
+  },
+  {
+    "name": "Grok",
+    "url": "https://grok.com",
+    "category": "ai-search",
+    "freeTier": "Real-time X + web search",
+    "noCreditCard": true,
+    "limits": "~10-25 msg/2h",
+    "notes": "X data integration."
+  },
+  {
+    "name": "DeepSeek",
+    "url": "https://chat.deepseek.com",
+    "category": "ai-search",
+    "freeTier": "Web search in chat",
+    "noCreditCard": true,
+    "limits": "Generous",
+    "notes": "Also a great chat model."
+  },
+  {
+    "name": "Claude",
+    "url": "https://claude.ai",
+    "category": "ai-search",
+    "freeTier": "Web search in chat",
+    "noCreditCard": true,
+    "limits": "Tight daily limits",
+    "notes": "Excellent summaries."
+  },
+  {
+    "name": "Le Chat (Mistral)",
+    "url": "https://chat.mistral.ai",
+    "category": "ai-search",
+    "freeTier": "Web search enabled",
+    "noCreditCard": true,
+    "limits": "~20-60 msg/day",
+    "notes": "Fast and accurate."
+  },
+  {
+    "name": "Exa AI",
+    "url": "https://exa.ai",
+    "category": "ai-search",
+    "freeTier": "AI content discovery",
+    "noCreditCard": true,
+    "limits": "Basic free",
+    "notes": "Links + semantic search."
+  },
+  {
+    "name": "Grammarly",
+    "url": "https://grammarly.com",
+    "category": "ai-productivity",
+    "freeTier": "100 AI prompts/mo, grammar check",
+    "noCreditCard": true,
+    "limits": "100/mo",
+    "notes": "Writing assistant."
+  },
+  {
+    "name": "Canva",
+    "url": "https://canva.com",
+    "category": "ai-productivity",
+    "freeTier": "200 Standard AI uses/mo, 5GB",
+    "noCreditCard": true,
+    "limits": "200/mo",
+    "notes": "Design + AI features."
+  },
+  {
+    "name": "Notion",
+    "url": "https://notion.so",
+    "category": "ai-productivity",
+    "freeTier": "Unlimited blocks, limited AI trial",
+    "noCreditCard": true,
+    "limits": "Unlimited personal",
+    "notes": "Docs + wikis + projects."
+  },
+  {
+    "name": "Otter.ai",
+    "url": "https://otter.ai",
+    "category": "ai-productivity",
+    "freeTier": "300 min transcription/mo",
+    "noCreditCard": true,
+    "limits": "30 min/conversation",
+    "notes": "Meeting transcription."
+  },
+  {
+    "name": "Fathom",
+    "url": "https://fathom.video",
+    "category": "ai-productivity",
+    "freeTier": "Unlimited recordings + AI summaries",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "Best free meeting tool."
+  },
+  {
+    "name": "Gamma",
+    "url": "https://gamma.app",
+    "category": "ai-productivity",
+    "freeTier": "AI presentations & docs",
+    "noCreditCard": true,
+    "limits": "Moderate limits",
+    "notes": "AI-generated slides."
+  },
+  {
+    "name": "Reclaim.ai",
+    "url": "https://reclaim.ai",
+    "category": "ai-productivity",
+    "freeTier": "AI scheduling, focus time, habits",
+    "noCreditCard": true,
+    "limits": "Free forever lite",
+    "notes": "Calendar optimization."
+  },
+  {
+    "name": "Zapier",
+    "url": "https://zapier.com",
+    "category": "ai-productivity",
+    "freeTier": "5 Zaps/mo, 100 tasks/mo",
+    "noCreditCard": true,
+    "limits": "5 Zaps",
+    "notes": "9k+ app integrations."
+  },
+  {
+    "name": "ElevenLabs",
+    "url": "https://elevenlabs.io",
+    "category": "ai-productivity",
+    "freeTier": "~10K chars/mo TTS, 300+ voices",
+    "noCreditCard": true,
+    "limits": "10K chars/mo",
+    "notes": "Best AI voice."
+  },
+  {
+    "name": "Descript",
+    "url": "https://descript.com",
+    "category": "ai-productivity",
+    "freeTier": "1 hr media/mo, 100 AI credits",
+    "noCreditCard": true,
+    "limits": "720p export",
+    "notes": "Video/audio editing."
+  },
+  {
+    "name": "Adobe Firefly",
+    "url": "https://adobe.com/products/firefly.html",
+    "category": "ai-productivity",
+    "freeTier": "25 gen credits/mo",
+    "noCreditCard": true,
+    "limits": "25/mo",
+    "notes": "Commercially safe."
+  },
+  {
+    "name": "Rytr",
+    "url": "https://rytr.me",
+    "category": "ai-productivity",
+    "freeTier": "10K chars/mo, 40+ use cases",
+    "noCreditCard": true,
+    "limits": "10K chars/mo",
+    "notes": "AI writing assistant."
+  },
+  {
+    "name": "DeepL Translator",
+    "url": "https://deepl.com",
+    "category": "ai-productivity",
+    "freeTier": "5K chars/translation",
+    "noCreditCard": true,
+    "limits": "3 file trans/mo",
+    "notes": "Best AI translator."
+  },
+  {
+    "name": "QuillBot",
+    "url": "https://quillbot.com",
+    "category": "ai-productivity",
+    "freeTier": "Paraphrase 125 words, summarize",
+    "noCreditCard": true,
+    "limits": "1,200 word summary",
+    "notes": "Paraphrasing tool."
+  },
+  {
+    "name": "Wordtune",
+    "url": "https://wordtune.com",
+    "category": "ai-productivity",
+    "freeTier": "AI rewrites, grammar, tone",
+    "noCreditCard": true,
+    "limits": "Limited free",
+    "notes": "Writing assistant."
+  },
+  {
+    "name": "Mem",
+    "url": "https://mem.ai",
+    "category": "ai-productivity",
+    "freeTier": "AI-auto-tagged notes",
+    "noCreditCard": true,
+    "limits": "Unlimited notes",
+    "notes": "AI-powered notes."
+  },
+  {
+    "name": "Recraft AI",
+    "url": "https://recraft.ai",
+    "category": "ai-productivity",
+    "freeTier": "30 credits/day",
+    "noCreditCard": true,
+    "limits": "30/day",
+    "notes": "Vectors + mockups."
+  },
+  {
+    "name": "Pixlr",
+    "url": "https://pixlr.com",
+    "category": "ai-productivity",
+    "freeTier": "3 saves/day, 50 AI credits/mo",
+    "noCreditCard": true,
+    "limits": "Ads",
+    "notes": "AI photo editor."
+  },
+  {
+    "name": "Runway",
+    "url": "https://runwayml.com",
+    "category": "ai-productivity",
+    "freeTier": "125 one-time credits",
+    "noCreditCard": true,
+    "limits": "One-time",
+    "notes": "Video/image editing."
+  },
+  {
+    "name": "Leonardo.ai",
+    "url": "https://leonardo.ai",
+    "category": "ai-productivity",
+    "freeTier": "150 fast tokens/day",
+    "noCreditCard": true,
+    "limits": "150/day",
+    "notes": "Image generation."
+  },
+  {
+    "name": "Ollama",
+    "url": "https://ollama.com",
+    "category": "ai-local",
+    "freeTier": "Free, open source",
+    "noCreditCard": true,
+    "limits": "Unlimited local",
+    "notes": "Package manager for local LLMs. Has API."
+  },
+  {
+    "name": "LM Studio",
+    "url": "https://lmstudio.ai",
+    "category": "ai-local",
+    "freeTier": "Free desktop app",
+    "noCreditCard": true,
+    "limits": "Unlimited local",
+    "notes": "GUI for models. Has local API."
+  },
+  {
+    "name": "GPT4All",
+    "url": "https://www.nomic.ai/gpt4all",
+    "category": "ai-local",
+    "freeTier": "Free desktop app",
+    "noCreditCard": true,
+    "limits": "Unlimited local",
+    "notes": "No GPU needed. Privacy-first."
+  },
+  {
+    "name": "LocalAI",
+    "url": "https://localai.io",
+    "category": "ai-local",
+    "freeTier": "Free, self-hosted",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "Drop-in OpenAI replacement."
+  },
+  {
+    "name": "llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "category": "ai-local",
+    "freeTier": "Free, open source",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "C/C++ inference. Foundation for many tools."
+  },
+  {
+    "name": "Text Gen WebUI (oobabooga)",
+    "url": "https://github.com/oobabooga/textgen",
+    "category": "ai-local",
+    "freeTier": "Free desktop app",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "OpenAI-compatible API."
+  },
+  {
+    "name": "Open WebUI",
+    "url": "https://openwebui.com",
+    "category": "ai-local",
+    "freeTier": "Free, self-hosted",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "Web UI for Ollama."
+  },
+  {
+    "name": "Jan",
+    "url": "https://jan.ai",
+    "category": "ai-local",
+    "freeTier": "Free desktop app",
+    "noCreditCard": true,
+    "limits": "Unlimited local",
+    "notes": "Runs 100% offline."
+  },
+  {
+    "name": "AnythingLLM",
+    "url": "https://anythingllm.com",
+    "category": "ai-local",
+    "freeTier": "Free desktop app",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "Built-in document RAG."
+  },
+  {
+    "name": "Msty",
+    "url": "https://msty.ai",
+    "category": "ai-local",
+    "freeTier": "Free desktop app",
+    "noCreditCard": true,
+    "limits": "Unlimited local",
+    "notes": "Privacy-first, user-friendly."
+  },
+  {
+    "name": "Big-AGI",
+    "url": "https://big-agi.com",
+    "category": "ai-local",
+    "freeTier": "Free self-hosted",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "Multi-model reasoning."
+  },
+  {
+    "name": "PrivateGPT",
+    "url": "https://github.com/zylon-ai/private-gpt",
+    "category": "ai-local",
+    "freeTier": "Free, self-hosted",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "Document Q&A locally."
+  },
+  {
+    "name": "LibreChat",
+    "url": "https://www.librechat.ai",
+    "category": "ai-local",
+    "freeTier": "Free, self-hosted",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "Multi-model chat. Privacy-focused."
+  },
+  {
+    "name": "Duck.ai",
+    "url": "https://duck.ai",
+    "category": "ai-privacy",
+    "freeTier": "Anonymous GPT, Claude, etc.",
+    "noCreditCard": true,
+    "limits": "Generous rate limits",
+    "notes": "No account. IP anonymized."
+  },
+  {
+    "name": "Brave Leo AI",
+    "url": "https://brave.com/leo",
+    "category": "ai-privacy",
+    "freeTier": "Free AI in Brave browser",
+    "noCreditCard": true,
+    "limits": "Limited model access",
+    "notes": "No account needed."
+  },
+  {
+    "name": "Ollama",
+    "url": "https://ollama.com",
+    "category": "ai-privacy",
+    "freeTier": "100% local, no data leaves",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "Maximum privacy."
+  },
+  {
+    "name": "GPT4All",
+    "url": "https://www.nomic.ai/gpt4all",
+    "category": "ai-privacy",
+    "freeTier": "100% local, CPU-friendly",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "No internet needed."
+  },
+  {
+    "name": "Jan",
+    "url": "https://jan.ai",
+    "category": "ai-privacy",
+    "freeTier": "100% offline local AI",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "ChatGPT alternative offline."
+  },
+  {
+    "name": "Private LLM (iOS)",
+    "url": "https://privatellm.app",
+    "category": "ai-privacy",
+    "freeTier": "On-device LLM for Apple",
+    "noCreditCard": true,
+    "limits": "Basic models free",
+    "notes": "No internet needed."
+  },
+  {
+    "name": "Whisper (OpenAI)",
+    "url": "https://github.com/openai/whisper",
+    "category": "ai-privacy",
+    "freeTier": "Open source speech rec",
+    "noCreditCard": true,
+    "limits": "Unlimited local",
+    "notes": "Run offline."
+  },
+  {
+    "name": "AirGap",
+    "url": "https://airgap.computer",
+    "category": "ai-privacy",
+    "freeTier": "Local AI in browser",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "WebLLM-based. Offline."
+  },
+  {
+    "name": "AnythingLLM",
+    "url": "https://anythingllm.com",
+    "category": "ai-privacy",
+    "freeTier": "Local by default",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "Open source, RAG built-in."
+  },
+  {
+    "name": "HuggingChat",
+    "url": "https://huggingface.co/chat",
+    "category": "ai-privacy",
+    "freeTier": "Open models, no account option",
+    "noCreditCard": true,
+    "limits": "Daily usage limits",
+    "notes": "Privacy-oriented."
+  },
+  {
+    "name": "LocalAI",
+    "url": "https://localai.io",
+    "category": "ai-privacy",
+    "freeTier": "Fully self-hosted",
+    "noCreditCard": true,
+    "limits": "Unlimited",
+    "notes": "Drop-in OpenAI replacement."
+  }
+]

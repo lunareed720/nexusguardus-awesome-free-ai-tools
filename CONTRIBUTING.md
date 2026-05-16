@@ -1,24 +1,34 @@
-# Contributing to Awesome Free AI Tools
+# Contributing
 
-## Adding a new tool
+We accept PRs adding verified free AI tools.
 
-1. Fork this repo
-2. Add the tool to the appropriate category in README.md
-3. Follow the table format exactly
+## Requirements
+
+Every new entry **must**:
+
+1. **Actually exist** — URL must resolve and serve content
+2. **Be genuinely free** — no credit card required, no "free trial" that expires
+3. **Have a meaningful free tier** — not just a 3-day trial or "free" that is unusable
+
+## How to add a tool
+
+1. Add to `data/verified-tools.json` with the correct category
+2. Run `python3 .github/scripts/check_links.py` to verify the URL works
+3. Update the table in `README.md` under the appropriate category
 4. Submit a PR
 
-## Entry format
+## Categories
 
-```markdown
-| **Tool Name** | [Link](https://…) | Your description here. |
-```
+- `ai-chat`, `ai-image`, `ai-video`, `ai-music`, `ai-code`
+- `ai-agents`, `ai-search`, `ai-productivity`, `ai-local`, `ai-privacy`
 
-## Rating criteria
+## What NOT to submit
 
-- **Truly free** — no credit card ever required
-- **No hidden trial** — no "3-day trial then $20"
-- **Clear limits** — documented cap on free usage
-- **Privacy respecting** — no mandatory data collection
-- **Currently active** — tool is maintained and working
+- Paid-only tools hiding behind "free trial"
+- Tools requiring credit card for signup (⚠️ is for exceptions only)
+- Dead or parked domains
+- AI-generated tool entries that don't exist
 
-Tools that don't meet the criteria will be flagged for discussion.
+## Verification
+
+All tools are verified weekly by the link checker workflow.

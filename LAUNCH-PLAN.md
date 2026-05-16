@@ -1,84 +1,31 @@
-# Launch Plan: 5,000 Stars in 6 Weeks
+# awesome-free-ai-tools — Verified Launch Plan
 
-## Pre-Launch (Week 0)
+## Phase 1: Foundation ✅
 
-- [ ] Fill in 30+ verified free AI tools in README.md
-- [ ] Add 5-star reviewer testimonials (from friends or forums)
-- [ ] Set up GitHub pages (index.html landing page)
-- [ ] Create Twitter/X account @AwesomeFreeAI
-- [ ] Add PRODUCTHUNT.com upcoming launch
-- [ ] Write the announcement blog post (see below)
+- [x] Repository created
+- [x] 150+ verified free AI tools curated across 10 categories
+- [x] Every URL verified (DNS + HTTP)
+- [x] README with clean, browsable tables
+- [x] Structured JSON data for automation
 
-## Week 1: Soft Launch
-- [ ] Post on r/artificial: "Free AI Tools" comparison table — value first, no repo link
-- [ ] Post on Hacker News Show HN: "What free AI tools do you use?"
-- [ ] Post on r/LocalLLaMA: "Free self-hosted AI tools list"
-- [ ] Pin to your personal profile README
+## Phase 2: Growth
 
-## Week 2: Reddit Blitz
-- [ ] r/singularity — "Free AI tools for LLMs, images, video"
-- [ ] r/MachineLearning — "Free tier AI tools comparison"
-- [ ] r/ClaudeAI — "Free Claude alternatives"
-- [ ] r/ChatGPT — "Free AI tools for productivity"
+- [ ] GitHub Actions: weekly link checker (auto-detect dead tools)
+- [ ] GitHub Actions: auto-generate README from JSON data
+- [ ] Add more tools (target: 200+ verified entries)
+- [ ] Create a simple web directory page (GitHub Pages)
 
-## Week 3: Community Growth
-- [ ] Email top AI newsletter writers with the list
-- [ ] Reach out to YouTubers making AI tutorials
-- [ ] Submit to libhunt.com as "free-ai-tools"
-- [ ] Submit to AlternativeTo.net
+## Phase 3: Community
 
-## Week 4: Content Push
-- [ ] Write Dev.to article: "How I Built a $0 AI Stack"
-- [ ] Write Hashnode blog post: "Free AI Tools That Don't Sell Your Data"
-- [ ] Twitter thread: "500 AI tools. 100% free. 0% credit card."
-- [ ] Record a 5-minute Loom walkthrough
+- [ ] Open for PRs with verification checklist
+- [ ] Add "Verified" badge with last-checked date per tool
+- [ ] Share on relevant subreddits (r/freeAI, r/InternetIsBeautiful)
+- [ ] Apply for Claude for Open Source program
 
-## Week 5–6: Momentum
-- [ ] Product Hunt launch (tag #AI, #DeveloperTools)
-- [ ] Hacker News "Ask HN" — "What free AI tools do you recommend?"
-- [ ] Submit to BetaList.com
-- [ ] Collaborate with other maintainers to cross-promote
+## Quality Standards
 
----
-
-## Apply for Claude Max 20x
-
-Once you hit **3,000+ stars**, apply:
-
-1. Go to https://claude.com/contact-sales/claude-for-oss
-2. Link your GitHub — pick this repo
-3. Write this exact pitch:
-
-```
-Project: Awesome Free AI Tools
-
-I maintain a curated, open-source directory of genuinely free AI tools —
-verified by the community, actively maintained, 30+ tools catalogued.
-
-Value: Helps developers and creators find no-paywall AI alternatives
-without the "3-day trial → bill shock" pattern that plagues the industry.
-
-Reach: 3,000+ GitHub stars, growing 150/week organically.
-
-I will use Claude Max for:
-- Writing weekly tool documentation
-- Filling in AI-generated comparison tables
-- Reviewing PRs efficiently
-- Growing the project faster with AI-assisted content
-
-No strings attached, no credit card, no auto-renewal requested.
-Applicant: gnifhx, primary maintainer, active commits this week.
-```
-
-4. Submit — reviewed in ~2 weeks
-
----
-
-## Apply for GitHub Student Developer Pack (backup)
-
-https://github.com/settings/education/benefits
-
-Grants: Copilot for free, domains, APIs, and more.
-
-Note: As of March 2026, the Student Pack removed Claude Max access.
-Use the Claude for OSS program instead.
+Every entry must pass:
+1. DNS resolves to an IP
+2. URL returns 2xx/3xx
+3. Free tier confirmed on official pricing page
+4. No credit card required at signup
